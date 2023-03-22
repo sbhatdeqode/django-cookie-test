@@ -3,7 +3,7 @@
 import os
 import sys
 
-#hellojkljjljhhl
+#hellojkljjljhhlhlhlkhjlkjhlkj
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'postgres_sql_db.settings')
